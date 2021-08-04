@@ -1,2 +1,0 @@
-1. build a counter component
-2. fetch the randomuser api and display what it returns as a string
